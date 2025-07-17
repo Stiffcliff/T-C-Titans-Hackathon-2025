@@ -1,0 +1,21 @@
+{
+  "transactions": [
+    {
+      "id": "0d2175da-353f-4609-b048-565593cf3dff",
+      "encrypted": "gAAAAABoeRTivErSQ8DdIZsAH2ZBisXfywIcqJnBEpgcokQvbl4CQFPraVb1lxbBVfb7sqrE1bc6L2EKZEzHFeyELXaII1zz3QsLSnx9-aOtJpFJN0WzKKJnne2mO1iQYoB3IpsLIL37",
+      "currency": "GBP",
+      "amount": 50.0,
+      "expiry": "2025/07/29 - 12:00",
+      "status": "valid"
+    }
+  ],
+  "shared": [
+    {
+      "to": "Kevin",
+      "token": "gAAAAABoeR_lt4rsG81LyBLJH7yvcLQdg3jA1v5Jx3ZPLgTA3PQInJRdk2kCP8GeMG17Kcxo7RCaYYCZ-D4Vif5KwXheFbcVjPBoIu5bHzvd2yGeFxKC4Fkxi5SehqxBM1oZ9Lq75YWv",
+      "amount": 250.0,
+      "expiry": "2025/07/17 - 12:00",
+      "status": "sent"
+    }
+  ]
+}
